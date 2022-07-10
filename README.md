@@ -1,4 +1,4 @@
-# Demo
+# Demo Repo
 
 I am adding some text here!
 
